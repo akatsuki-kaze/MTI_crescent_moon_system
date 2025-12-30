@@ -8,3 +8,4 @@ from HAL import depth_camera as cam
 ```
 just like this.
 
+For more detials, you can view files of this program
