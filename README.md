@@ -1,5 +1,4 @@
 # MTI_crescent_moon_system——MCMS
-# MTI Crescent Moon System (MCMS)
 
 Overview
 ---
